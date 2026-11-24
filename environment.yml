@@ -1,0 +1,27 @@
+# Starting environment for local raster steps and validation.
+# DE Africa Sandbox is the documented environment for live data-cube stages.
+# This file is not an exact lock of the original research environment.
+name: land-productivity
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - ipykernel
+  - ipython
+  - nbformat
+  - numpy
+  - pandas
+  - xarray
+  - dask
+  - distributed
+  - rasterio
+  - rioxarray
+  - geopandas
+  - matplotlib
+  - psutil
+  - scipy
+  - datacube
+  - odc-algo
+  - odc-geo
+  - pip

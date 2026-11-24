@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Synthetic northern Ghana example; not an administrative boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.18,
+              9.52
+            ],
+            [
+              -0.16,
+              9.52
+            ],
+            [
+              -0.16,
+              9.54
+            ],
+            [
+              -0.18,
+              9.54
+            ],
+            [
+              -0.18,
+              9.52
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
