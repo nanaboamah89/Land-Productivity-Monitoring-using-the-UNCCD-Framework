@@ -14,3 +14,17 @@ provenance must be supplied by the researcher for an original-study release.
 
 The example AOI is a synthetic rectangle. The example integration table is
 illustrative and is not represented as the original study's decision rule.
+
+Acknowledgements:
+We gratefully acknowledge the Group on Earth Observations Land Degradation
+Neutrality (GEO-LDN) initiative for its support of this research and the
+development of this land productivity monitoring workflow.
+https://geo-ldn.org/
+
+We acknowledge Digital Earth Africa (DE Africa) for providing the open satellite
+data, analytical tools, and Sandbox platform used in this work.
+https://www.digitalearthafrica.org/
+
+We also acknowledge the University of Energy and Natural Resources (UENR),
+Ghana, for its support of this research.
+https://uenr.edu.gh/

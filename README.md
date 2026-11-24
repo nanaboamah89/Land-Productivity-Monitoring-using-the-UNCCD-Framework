@@ -1,5 +1,4 @@
 # Land-Productivity-Monitoring-using-the-UNCCD-Framework
-
 ## Land productivity monitoring with Landsat NDVI
 
 A documented Jupyter workflow for generating monthly rolling NDVI, examining vegetation seasonality, and assessing land productivity through trajectory, state, and relative performance. The original application uses Mion District, Ghana, with Landsat observations from 2000–2024.
@@ -166,6 +165,14 @@ Generated rasters are excluded from normal Git commits by `.gitignore`. Share la
 Create a repository such as `land-productivity-geomad`, then upload the **contents** of this folder, keeping the relative layout. GitHub renders the root README and notebooks directly. If using Git, initialize locally and commit only the intended project files before connecting your repository remote.
 
 Before presenting a release as reproducing the original study, include the original AOI and integration criteria where redistribution is permitted, complete a fresh-kernel Sandbox run, and archive its configuration, successful environment, data provenance, and outputs. Fill in the project's author, thesis/publication citation, repository URL, and release DOI when those details are confirmed; none have been invented in this package.
+
+## Acknowledgements
+
+We gratefully acknowledge the [Group on Earth Observations Land Degradation Neutrality (GEO-LDN) initiative](https://geo-ldn.org/) for its support of this research and the development of this land productivity monitoring workflow.
+
+We acknowledge **Digital Earth Africa (DE Africa)** for providing the open satellite data, analytical tools, and Sandbox platform used in this work.
+
+We also acknowledge the [University of Energy and Natural Resources (UENR), Ghana](https://uenr.edu.gh/), for its support of this research.
 
 ## Attribution and licence
 
