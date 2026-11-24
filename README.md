@@ -1,4 +1,6 @@
-# Land productivity monitoring with Landsat NDVI
+# Land-Productivity-Monitoring-using-the-UNCCD-Framework
+
+## Land productivity monitoring with Landsat NDVI
 
 A documented Jupyter workflow for generating monthly rolling NDVI, examining vegetation seasonality, and assessing land productivity through trajectory, state, and relative performance. The original application uses Mion District, Ghana, with Landsat observations from 2000–2024.
 
