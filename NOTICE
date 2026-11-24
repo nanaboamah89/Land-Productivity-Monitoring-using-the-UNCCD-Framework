@@ -1,0 +1,16 @@
+Land productivity monitoring with Landsat NDVI
+
+This workflow adapts eight research notebooks supplied by the study author.
+The supplied notebooks identify their code licence as Apache License 2.0 and
+acknowledge Digital Earth Africa data and analytical tools. This declaration
+and acknowledgement are retained in the documented preparation.
+
+Digital Earth Africa Sandbox notebooks and deafrica_tools:
+https://github.com/digitalearthafrica/deafrica-sandbox-notebooks
+
+All original copyright and attribution notices apply. Data licences and
+acknowledgements are separate from this code licence. Boundary and rule-table
+provenance must be supplied by the researcher for an original-study release.
+
+The example AOI is a synthetic rectangle. The example integration table is
+illustrative and is not represented as the original study's decision rule.
